@@ -1,0 +1,6 @@
+@AttendanceBioApi_HostAddress = http://localhost:5169
+
+GET {{AttendanceBioApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

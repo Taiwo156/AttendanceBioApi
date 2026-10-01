@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AttendanceBioAPI.Data/AttendanceBioAPI.Data.csproj" />
+  <Project Path="AttendanceBioAPI.Service/AttendanceBioAPI.Service.csproj" />
+  <Project Path="AttendanceBioApi/AttendanceBioApi.csproj" />
+</Solution>
