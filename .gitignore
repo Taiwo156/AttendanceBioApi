@@ -7,3 +7,5 @@ obj/
 .env
 .env.*
 appsettings.Local.json
+
+AttendanceBioAPI/appsettings.json
